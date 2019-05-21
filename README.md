@@ -1,6 +1,6 @@
 # Spotify Hand Gesture Recognition
 
-Several years ago, there was a program available online called Flutter that allowed users to control their music with hand gestures. This was one of my favorite party tricks, unfortunetaly the code was purchased by Google and the program discontinued. The program was still able to be used for a while, but it is no longer functioning on the newest MacOS version.
+Several years ago, there was a program available online called Flutter that allowed users to control their music with hand gestures. This was one of my favorite party tricks, unfortunately the code was purchased by Google and the program discontinued. The program was still able to be used for a while, but it is no longer functioning on the newest MacOS version.
 
 Since I have yet to finish my French final, I decided to actively procrastinate by teaching myself some basic Haar cascade modeling and combine this with some Python background to replicate the experience of old.
 
