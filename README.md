@@ -2,6 +2,10 @@
 
 This is an app that allows Mac users to control playback (pause/play) iTunes or Spotify using hand gestures.
 
+*Important*
+To use, follow the instructions. Once it is installed and running, make a fist in front of the webcam to toggle playback! I realized I never actually specified how to use it once it’s running 😅.
+
+
 ## Installation
 
 There are several ways to install and use this application.
