@@ -8,7 +8,7 @@ There are several ways to install and use this application.
 
 1. From Latest Release (MacOS only)
 
-Visit the Releases tab and select the newest release. Then unzip and double-click the `Voleter.app` file. The icon should be a fist.
+Visit the [Releases](https://github.com/alexanderldavis/Voleter/releases) tab and select the newest release. Then unzip and double-click the `Voleter.app` file. The icon should be a fist.
 
 2. From Source (MacOS only)
 
