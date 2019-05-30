@@ -21,9 +21,9 @@ Visit the [Releases](https://github.com/alexanderldavis/Voleter/releases) tab an
 To install, clone this repo and install dependencies.
 
 ```
-git clone git@github.com:alexanderldavis/Spotify-Gesture-Control.git
+git clone git@github.com:alexanderldavis/Voleter.git
 
-cd Spotify-Gesture-Control
+cd Voleter
 pipenv shell
 pip3 install -r requirements.txt
 ```
