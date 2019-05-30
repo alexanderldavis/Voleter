@@ -83,6 +83,5 @@ pyinstaller --onefile --windowed --noconsole --icon=fist.ico voleter.spec
 You will then have a new executable in the `/dist` file.
 
 Thanks for your interest!
-Thanks
 
 ✊
