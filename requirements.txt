@@ -1,5 +1,5 @@
 numpy==1.16.4
-opencv-python==4.1.0.25
+opencv-python==4.1.1.26
 pyobjc-core==5.2
 pyobjc-framework-Cocoa==5.2
 rumps==0.3.0
